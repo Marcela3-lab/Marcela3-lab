@@ -15,6 +15,9 @@
 </div>
 
  <p></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marcela3-lab&theme=radical)
+
+  <p></p>
 <div> 
   <a href = "mailto:sousamarcela837@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/marcela-souza-41054222a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

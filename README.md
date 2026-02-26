@@ -15,7 +15,6 @@
 </div>
 
  <p></p>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marcela3-lab&theme=radical)
 
   <p></p>
 <div> 

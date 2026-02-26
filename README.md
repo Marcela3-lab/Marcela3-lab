@@ -1,4 +1,4 @@
-# 🌷 Hiii I'm Marcela
+# Hiii I'm Marcela
 
 ✨ Passionate about technology 💻, learning 📚 and creating meaningful projects 🚀  
 
